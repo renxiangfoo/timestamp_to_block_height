@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "ethereum-block-by-date": "^1.4.5",
+    "web3": "^1.7.3"
+  }
+}
